@@ -13,7 +13,7 @@ const AnimeItem = (props) => {
   }, []);
   return (
     <>
-      <Link className="anime m-2 px-2 pt-2 " to={`/anime/${DataFromItem.name}`} state={DataFromItem} >
+      <Link className="anime m-2 px-2 pt-2 " to={`/AnimeWorld/anime/${DataFromItem.name}`} state={DataFromItem} >
         <img className='poster' src={DataFromItem.poster_link} alt={DataFromItem.name} />
         <p className="name ">{DataFromItem.name}</p>
       </Link>
