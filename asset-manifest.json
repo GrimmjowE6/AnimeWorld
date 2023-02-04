@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/AnimeWorld/static/css/main.db62b4ef.css",
+    "main.js": "/AnimeWorld/static/js/main.51dca1c5.js",
+    "static/media/watchBg.jpg": "/AnimeWorld/static/media/watchBg.70ba42151c21ce46715d.jpg",
+    "static/media/discordLogo.svg": "/AnimeWorld/static/media/discordLogo.8d78740e8e5f4a0ca4af09ebd08fe2f5.svg",
+    "static/media/twitterLogo.svg": "/AnimeWorld/static/media/twitterLogo.c746deba2de04c3fdbe1b1f750a52d17.svg",
+    "index.html": "/AnimeWorld/index.html",
+    "static/media/instaLogo.svg": "/AnimeWorld/static/media/instaLogo.90d0c98f2b43ff56a3c518a71eed962c.svg",
+    "static/media/faceLogo.svg": "/AnimeWorld/static/media/faceLogo.c5ec442f6a8a413ee0c0944d293c8b9b.svg",
+    "main.db62b4ef.css.map": "/AnimeWorld/static/css/main.db62b4ef.css.map",
+    "main.51dca1c5.js.map": "/AnimeWorld/static/js/main.51dca1c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db62b4ef.css",
+    "static/js/main.51dca1c5.js"
+  ]
+}
