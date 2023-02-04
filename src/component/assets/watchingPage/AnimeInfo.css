@@ -1,0 +1,11 @@
+.poster-container{
+    font-size: large;
+    border-radius: 20px;
+    background-color: #373737cc;
+}
+.poster-info{
+    height: 400px;
+    width: 320px;
+    border-radius: 10px;
+}
+

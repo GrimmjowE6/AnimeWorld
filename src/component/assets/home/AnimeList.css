@@ -1,0 +1,27 @@
+.anime-list{
+    background-image:url("../../../Image/watchBg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.anime{
+    background-color: rgba(0, 0, 0, 0.61);
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.555);
+    text-decoration:none;
+}
+.anime:hover .poster{
+    color: rgb(240, 239, 239);
+
+} 
+
+.poster{
+    height: 300px;
+    width: 220px;
+    border-radius:5px;
+}
+.name{
+    width: 200px;
+    text-decoration:none;
+    color: white;
+}
